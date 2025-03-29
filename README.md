@@ -8,5 +8,5 @@ Transformando todo conhecimento de negócios e de soluções de problemas comple
 ## 🛠 Habilidades
 Python, Análise de dados com Python, Google Sheets, Workforce Management, Excel.
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,git,github,html,bash,linux,codepen,gmail,msexcel,flask,pandas,vscode,windows,workers&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,git,github,html,bash,linux,codepen,gmail,linkedin,ai,flask,pandas,vscode,windows,workers&perline=31)](https://skillicons.dev)
 
